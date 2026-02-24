@@ -7,6 +7,8 @@
 <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white">
 </p>
 
+
+
 # Forecasting Near Term Water Quality using Explanable AI in Beaverdam Reservoir
 
 #### About the Repository
@@ -18,16 +20,11 @@ This project uses machine learning to forecast Chlorophyll-a at 7 day horizon an
 
 ## 📁 Instructions to reproduce the figures and analyses
 
-
-### The machine learning and explainable AI analyses are performed using the jupyter notebook below.
-
-
-
 ##### Data Access 
-The data used in this project are available as CSV file in this repository for reproducibility. However, to download the data directly from EDI, run the R script below:
 
-GitHub Repository: (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
-📁 **GitHub Repository:** [`Daily_avg_RS.R`] (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
+The data used in this project are uplaoded as CSV file in this repository. However, to download the data directly from EDI, run the R script below:
+
+**GitHub Repository:** (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
 
 The script automatically fetches the required data packages directly from the EDI Repository API portal (given below), processes the variables, and saves the final output as a .csv file. 
 
@@ -38,28 +35,10 @@ Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency meteorologi
 
 Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, fluorescent dissolved organic matter, and turbidity at discrete depths, and water level in Beaverdam Reservoir, Virginia, USA, 2009–2024 (ver. 5). Environmental Data Initiative. https://doi.org/10.6073/pasta/8f666b34c120aa5d2242964cf3147f90 <sub>Accessed 2025-09-17</sub>.
 
-
-
-
-
-
-##### Running this script can download the data the used for this project (uploaded here for reprodcibilty). 
-
-To download the data used here directly from EDI run the below R notebook. Howver for reproducbility we're uplaoding the data here.
-
-  - Run the R code from the GitHub Repository (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
-
-The script automatically fetches the required data packages directly from the EDI Repository API portal (given below), processes the variables, and saves the final output as a .csv file. 
-
-* Note: Running this code can take a few minutes and may require substantial memory, depending on your system. 
-
-#### Citations:
-
-Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency meteorological data at Falling Creek Reservoir, Virginia, USA, 2015–2024 (ver. 9). Environmental Data Initiative. https://doi.org/10.6073/pasta/0389840ddcb39ec5526869ac898ddb5d <sub>Accessed 2025-09-17</sub>.
-
-Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, fluorescent dissolved organic matter, and turbidity at discrete depths, and water level in Beaverdam Reservoir, Virginia, USA, 2009–2024 (ver. 5). Environmental Data Initiative. https://doi.org/10.6073/pasta/8f666b34c120aa5d2242964cf3147f90 <sub>Accessed 2025-09-17</sub>.
-
 ---
+
+### The machine learning and explainable AI analyses is performed using the jupyter notebook below.
+
 
 ## Bathymetry Data Processing & Visualization
 
@@ -72,7 +51,6 @@ Carey, C.C., A.S. Lewis, D.W. Howard, W.M. Woelmer, P.A. Gantzer, K.A. Bierlein,
 -
 
 ---
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
