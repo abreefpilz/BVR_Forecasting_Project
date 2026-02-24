@@ -1,7 +1,7 @@
 <p align="left">
 <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
 <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blueviolet">
-<img alt="Models" src="https://img.shields.io/badge/Models-Ensemble_ML_Methods-4285F4">
+<img alt="Models" src="https://img.shields.io/badge/Model-XGBoost-4285F4">
 <img alt="Framework" src="https://img.shields.io/badge/Framework-Scikit--learn-orange">
 <img alt="Framework" src="https://img.shields.io/badge/Visulisation-Matplotlib-green">
 <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white">
