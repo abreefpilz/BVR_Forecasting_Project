@@ -22,8 +22,42 @@ This project uses machine learning to forecast Chlorophyll-a at 7 day horizon an
 ### The machine learning and explainable AI analyses are performed using the jupyter notebook below.
 
 
-##### Running this script will reproduce the FCR_BVR_Met_daily_obs_2019_2024.csv used for this project (uploaded here). 
 
+##### Data Access 
+The data used in this project are available as CSV file in this repository for reproducibility. However, to download the data directly from EDI, run the R script below:
+
+GitHub Repository: (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
+📁 **GitHub Repository:** [`Daily_avg_RS.R`] (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
+
+The script automatically fetches the required data packages directly from the EDI Repository API portal (given below), processes the variables, and saves the final output as a .csv file. 
+
+> *Note: This script may take several minutes and require substantial memory depending on your system.
+
+#### Citations
+Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency meteorological data at Falling Creek Reservoir, Virginia, USA, 2015–2024 (ver. 9). Environmental Data Initiative. https://doi.org/10.6073/pasta/0389840ddcb39ec5526869ac898ddb5d <sub>Accessed 2025-09-17</sub>.
+
+Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, fluorescent dissolved organic matter, and turbidity at discrete depths, and water level in Beaverdam Reservoir, Virginia, USA, 2009–2024 (ver. 5). Environmental Data Initiative. https://doi.org/10.6073/pasta/8f666b34c120aa5d2242964cf3147f90 <sub>Accessed 2025-09-17</sub>.
+
+
+
+
+
+
+##### Running this script can download the data the used for this project (uploaded here for reprodcibilty). 
+
+To download the data used here directly from EDI run the below R notebook. Howver for reproducbility we're uplaoding the data here.
+
+  - Run the R code from the GitHub Repository (https://github.com/abreefpilz/Reservoirs/blob/master/Scripts/Daily_avg_RS.R)
+
+The script automatically fetches the required data packages directly from the EDI Repository API portal (given below), processes the variables, and saves the final output as a .csv file. 
+
+* Note: Running this code can take a few minutes and may require substantial memory, depending on your system. 
+
+#### Citations:
+
+Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency meteorological data at Falling Creek Reservoir, Virginia, USA, 2015–2024 (ver. 9). Environmental Data Initiative. https://doi.org/10.6073/pasta/0389840ddcb39ec5526869ac898ddb5d <sub>Accessed 2025-09-17</sub>.
+
+Carey, C. C., & Breef-Pilz, A. (2025). Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, fluorescent dissolved organic matter, and turbidity at discrete depths, and water level in Beaverdam Reservoir, Virginia, USA, 2009–2024 (ver. 5). Environmental Data Initiative. https://doi.org/10.6073/pasta/8f666b34c120aa5d2242964cf3147f90 <sub>Accessed 2025-09-17</sub>.
 
 ---
 
