@@ -7,7 +7,7 @@
 <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white">
 </p>
 
-# Forecasting Near Term Water Quality using Machine Learning in Beaverdam Reservoir
+# Forecasting Near Term Water Quality using Explanable AI in Beaverdam Reservoir
 
 #### About the Repository
 ---
