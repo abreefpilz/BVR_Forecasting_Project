@@ -29,7 +29,7 @@ This project develops a machine learning framework to **forecast Chlorophyll-a c
 3. Upload the CSV data file or mount Google Drive
 4. Run the cells sequentially
 
-*Note: It will install the optuna package. Make sure it is uncommented.*
+>*Note: It will install the optuna package. Make sure it is uncommented.*
 
 ### Option B: Run Locally
 
