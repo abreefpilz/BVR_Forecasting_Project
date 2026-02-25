@@ -9,7 +9,7 @@
 
 
 
-# Multi-horizon Chlorophyll-a forecasting with XGBoost and SHAP-based explainability for Beaverdam Reservoir (BVR), Virginia, USA.
+# Multi-horizon Chlorophyll-a forecasting with XGBoost and SHAP-based explainability for Beaverdam Reservoir (BVR), Virginia.
 
 ---
 
