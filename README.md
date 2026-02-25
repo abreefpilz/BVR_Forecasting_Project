@@ -77,9 +77,6 @@ This script fetches data packages from the EDI API, processes the variables, and
 
 ---
 
-## ✅ Citation
-
-If you use this code or methodology in a publication, please cite this repository:
 
 ## ✅ Citation & Data Access
 
