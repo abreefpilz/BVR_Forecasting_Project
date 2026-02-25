@@ -25,7 +25,7 @@ This project develops a machine learning framework to **forecast Chlorophyll-a c
 ### Option A: Run on Google Colab (Recommended)
 
 1. Open the colab: https://colab.google/
-2. Add the notebook **`BVR_Forecasting_review.ipynb`**
+2. Add the notebook `BVR_Forecasting_review.ipynb`
 3. Upload the CSV data file or mount Google Drive
 4. Run the cells sequentially
 
