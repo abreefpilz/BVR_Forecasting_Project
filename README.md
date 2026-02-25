@@ -28,8 +28,8 @@ This project develops a machine learning framework to **forecast Chlorophyll-a c
 
 1. Open the colab: https://colab.google/
 2. Add the notebook `BVR_Forecasting_review.ipynb`
-3. Upload the CSV data file or mount Google Drive
-4. Run the cells sequentially
+3. Upload the CSV data file (`BVR_BIO_CHEM_MET_DAILY_2020_2024.csv`) or mount Google Drive
+4. Run the notebook cells sequentially
 
 >*Note: It will install the optuna package. Make sure it is uncommented.*
 
@@ -59,7 +59,7 @@ Open `BVR_Forecasting_review.ipynb` and run all cells sequentially.
 
 ## 📊 Data Access
 
-The processed daily-averaged dataset is included in this repository as a CSV file.
+The processed daily-averaged dataset is included in this repository as a CSV file `BVR_BIO_CHEM_MET_DAILY_2020_2024.csv`.
 
 To regenerate the data directly from [EDI Repository](https://portal.edirepository.org/nis/home.jsp), run the R script:
 
